@@ -76,3 +76,4 @@ Thumbs.db
 !/[Pp]ackages/packages-lock.json
 !/[Pp]roject[Ss]ettings/
 
+.agents
